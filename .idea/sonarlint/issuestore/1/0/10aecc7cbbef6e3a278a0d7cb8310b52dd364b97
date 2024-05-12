@@ -1,0 +1,14 @@
+
+e
+java:S1854"HRemove this useless assignment to local variable "departmentRepository".(ôË‹š8Ý§„Þö1
+V
+java:S1481"9Remove this unused "departmentRepository" local variable.(ôË‹š8Þ§„Þö1
+]	java:S125"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8Þ§„Þö1
+G	java:S106"+Replace this use of System.out by a logger.(Ê™ïË8Þ§„Þö1
+L	java:S106"+Replace this use of System.out by a logger.(ŽÔÇ„øÿÿÿÿ8ß§„Þö1
+L	java:S106"+Replace this use of System.out by a logger.(þ…ÁÏýÿÿÿÿ8ß§„Þö1
+L	java:S106 "+Replace this use of System.out by a logger.(öçé®ùÿÿÿÿ8ß§„Þö1
+L	java:S106!"+Replace this use of System.out by a logger.(þæ£ñþÿÿÿÿ8ß§„Þö1
+L	java:S106#"+Replace this use of System.out by a logger.(…‡˜óþÿÿÿÿ8ß§„Þö1
+]
+java:S1128";Remove this unused import 'com.muhammet.entity.Department'.(ÓõÂøÿÿÿÿ8à§„Þö1

@@ -1,0 +1,6 @@
+
+h	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ó÷‰L8Ö¯«ßö1
+X	java:S125)"<This block of commented-out lines of code should be removed.(÷Ž¥š8¤ý¹àö1
+b
+java:S1128"ERemove this unused import 'com.muhammet.repository.PersonRepository'.(Âäƒê8Ü¯«ßö1
